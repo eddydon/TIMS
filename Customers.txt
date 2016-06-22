@@ -1,0 +1,4 @@
+100,Ms,Jane,Doe,10ann,guy,1234,brunch,yellow,123,Parkside Street,Brooklyn,NY,11233,(718)345-1234,janedoe@gmail.com
+101,Mr,John,Smith,1mark,girl,2345,lunch,gray,343,Float Street,Brooklyn,NY,11233,(718)843-4522,smithsonian@gmail.com
+102,Ms,Jenaya,Joseph,2jjPM,jj2,6789,breakfast,green,854,First Avenue,New York,NY,11233,(718)454-8768,jenaya@gmail.com
+103,Mr,Edward,Donkor,05001,1005,5432,dinner,blue,395,Skyline Blvd,Queens,NY,11233,(718)342-2344,ed_don@gmail.com
